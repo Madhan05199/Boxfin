@@ -1303,8 +1303,9 @@ line-height:25px;
 }
 .footer p{
 border:2px solid rgba(0,0,0,0.2);
-padding:15px 18px;
+padding:15px 13px;
 color:rgba(0,0,0,0.7);
+font-size:14px;
 }
 }
 
@@ -2379,6 +2380,7 @@ flex-direction:column
 .accordian h2{
 font-size:15px;
 line-height:20px;
+margin-right:12px;
 }
 .essential_section .col_container-8 .accordian_container:hover .accordian_content{
 background-color:white;
